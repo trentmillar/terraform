@@ -1,0 +1,3 @@
+tenant_id="<get this from your openrc file from Cybera's dashboard>"
+auth_url="https://keystone-yyc.cloud.cybera.ca:5000/v3"
+region="Calgary"
